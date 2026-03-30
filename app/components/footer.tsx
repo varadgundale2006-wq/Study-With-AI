@@ -90,13 +90,13 @@ export default function Footer() {
 
           <div className="text-slate-400 text-sm space-y-2 mb-6 break-words">
             <p className="truncate sm:whitespace-normal">
-              sumitkotalwar1@email.com
+              om.pawar24@pccoepune.org
             </p>
             <p className="truncate sm:whitespace-normal">
-              hariomgundale21@gmail.com
+              sarthak.gaikwad24@pccoepune.org
             </p>
             <p className="truncate sm:whitespace-normal">
-              varadgundale2006@gmail.com
+              prem.admane24@pccoepune.org
             </p>
           </div>
 
