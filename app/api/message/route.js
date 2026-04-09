@@ -15,7 +15,7 @@ export async function POST(req) {
 
     await resend.emails.send({
       from: "Study With Ai <onboarding@resend.dev>",
-      to: ["varadgundale2006npm@gmail.com"], // CHANGE THIS
+      to: ["varadgundale2006@gmail.com"], // CHANGE THIS
       subject: `New message from ${name}`,
       reply_to: email,
       html: `
