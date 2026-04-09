@@ -90,20 +90,20 @@ export default function Footer() {
 
           <div className="text-slate-400 text-sm space-y-2 mb-6 break-words">
             <p className="truncate sm:whitespace-normal">
-              om.pawar24@pccoepune.org
+              varadgundale2006@gmail.com
             </p>
             <p className="truncate sm:whitespace-normal">
-              sarthak.gaikwad24@pccoepune.org
+              varadgundale2006@gmail.com
             </p>
             <p className="truncate sm:whitespace-normal">
-              prem.admane24@pccoepune.org
+              varadgundale2006@gmail.com
             </p>
           </div>
 
           {/* SOCIAL */}
           <div className="flex justify-center sm:justify-start gap-4">
             <a
-              href="https://github.com/HariomGundale/Study-with-Ai"
+              href="https://github.com/varadgundale2006-wq/Study-With-AI.git"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-slate-800 p-3 rounded-xl hover:bg-blue-600 transition-all duration-300 hover:scale-105"
@@ -112,7 +112,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="mailto:hariomgundale21@gmail.com"
+              href="mailto:varadgundale2006@gmail.com"
               className="bg-slate-800 p-3 rounded-xl hover:bg-green-600 transition-all duration-300 hover:scale-105"
             >
               <Mail size={18} />
