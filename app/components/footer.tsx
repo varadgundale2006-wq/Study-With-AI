@@ -92,12 +92,6 @@ export default function Footer() {
             <p className="truncate sm:whitespace-normal">
               varadgundale2006@gmail.com
             </p>
-            <p className="truncate sm:whitespace-normal">
-              varadgundale2006@gmail.com
-            </p>
-            <p className="truncate sm:whitespace-normal">
-              varadgundale2006@gmail.com
-            </p>
           </div>
 
           {/* SOCIAL */}

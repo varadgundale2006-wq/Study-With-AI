@@ -55,7 +55,7 @@ export default function Dashboard() {
       `Generated ${resultType.toUpperCase()} Document`,
       pageWidth / 2,
       28,
-      { align: "center" }
+      { align: "center" },
     );
 
     doc.line(20, 32, pageWidth - 20, 32);
@@ -78,9 +78,11 @@ export default function Dashboard() {
         className="max-w-4xl mx-auto"
       >
         {/* Heading */}
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-8 sm:mb-10 text-center">
-          Notes Summarizer
-        </h1>
+        <div className="text-center mb-8 sm:mb-10">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">
+            Notes Summarizer
+          </h1>
+        </div>
 
         {/* Topic Input */}
         <input
